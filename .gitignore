@@ -1,0 +1,60 @@
+# Vue.js build output
+/dist
+/node_modules
+/.cache
+
+# Capacitor build output
+/android/app/build/
+/android/capacitor.config.json
+
+# Capacitor folders
+/ios/App/public
+/ios/App/www
+/android/app/src/main/assets
+/android/app/src/main/res
+/android/app/src/main/build
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/*
+.idea/*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Capacitor settings
+/capacitor.config.json
+
+./android
+
+# Environment variables
+.env.local
+.env.*.local
+
+# JetBrains IDEs
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*~.*
+.*.swp
+._*
+
+# OS generated files
+Thumbs.db
+.DS_Store
+./android
+./dist
+./node_modules
